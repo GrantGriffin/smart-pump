@@ -1,17 +1,17 @@
 {
-  "users": 
-  [
+  "users": [
     {
+      "type": "TEST_USER",
       "_id": "5410953eb0e0c0ae25608277",
       "guid": "eab0324c-75ef-49a1-9c49-be2d68f50b96",
       "isActive": true,
       "balance": "$3,585.69",
       "picture": "http://placehold.it/32x32",
       "age": 30,
-      "eyeColor": "blue",
+      "eyeColor": "0.8567408499645628",
       "name": {
         "first": "Henderson",
-        "last": "Briggs"
+        "last": "0.7678984295215847"
       },
       "company": "GEEKNET",
       "email": "henderson.briggs@geeknet.net",
@@ -69,7 +69,7 @@
       },
       "company": "ZILLAR",
       "email": "gibson.duke@zillar.com",
-      "password": "ndfadsf(d",
+      "password": "ndfadsf(d0",
       "phone": "+1 (971) 473-2320",
       "address": "110 Roosevelt Place, Salunga, South Carolina, 9434"
     },
